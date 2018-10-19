@@ -6,9 +6,8 @@ layout: default
 
 <!--[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc) -->
 +44 7958 208105<br>
-[http://uk.linkedin.com/in/ryanwdavies](http://uk.linkedin.com/in/ryanwdavies)<br/>
-[https://github.com/ryanwdavies](https://github.com/ryanwdavies)
-
+<a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
+<a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a>
 
 ## Career Objectives
 
