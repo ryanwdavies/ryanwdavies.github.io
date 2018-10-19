@@ -4,20 +4,18 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:300px;width:300px;" border="2">
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc)
+<!--[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc) -->
++44 7958 208105<br>
 [http://uk.linkedin.com/in/ryanwdavies](http://uk.linkedin.com/in/ryanwdavies)<br/>
 [https://github.com/ryanwdavies](https://github.com/ryanwdavies)
 
 
+## Career Objectives
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+<br/>
+<br/>
+<br/><br/><br/>
+<br/>
 
 ## Core skils
 
@@ -34,10 +32,10 @@ Oracle Applications (R9 - R12)
 
 *   **Oracle Enterprise Manager:** Installation, template definition, custom reporting, user-defined metrics, HA repository configuration
 
-*   **Oracle Financial Services Analytical Applications (OFSAA):**  LRM, FTP, ALM, GLRECON, BASEL; performance tuning, installation, upgrade, cloning
+*   **Oracle Financial Services Analytical Applications (OFSAA):**  LRM, FTP, ALM, GLRECON, BASEL; performance tuning, installation, upgrade, cloning<br/><br/>
 
 
-## Certifciations
+## Certifications
 
 *   Oracle 11gR2 Administrator Certified Professional
 *   Oracle 11gR2 Performance Tuning Certified Expert
@@ -197,7 +195,7 @@ BSc Industrial Management 2(i), Nottingham Trent University (1990 – 1994)
 A broad-based degree which included aspects of computer science, accounting, business decision making, economics, marketing, manufacturing, and mechanical and electrical engineering. </p><br>
 
 
-<img src="/assets/images/oracle.png" align="left" style="height:200px;" border="2">
-<img src="/assets/images/APM.png" align="left" style="height:200px;" border="2">
+<img src="/assets/images/oracle.png" align="left" style="height:150px;" border="2">
+<img src="/assets/images/APM.png" align="left" style="height:150px;" border="2">
 
 
