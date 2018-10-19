@@ -198,4 +198,4 @@ A broad-based degree which included aspects of computer science, accounting, bus
 <img src="/assets/images/oracle.png" align="left" style="height:150px;" border="2">
 <img src="/assets/images/APM.png" align="left" style="height:150px;" border="2">
 
-
+<br><br>
