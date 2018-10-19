@@ -20,7 +20,7 @@ layout: default
 
 *   **Languages:** Python, Jython, shell script (bash/ksh), JavaScript, PHP, VBA, PL/SQL, SQL, TSQL
 
-*   **Oracle Middleware:** OMW with SOA (OSB, OER, OSR), WebCenter Portal, ODI, OBIEE, Discoverer, Identity and Access Management (OID and OAM; installation, configuraiton, performance tuning, monitoring, cloning.
+*   **Oracle Middleware:** OMW with SOA (OSB, OER, OSR), WebCenter Portal, ODI, OBIEE, Identity and Access Management (OID and OAM; installation, configuraiton, performance tuning, monitoring, cloning
 
 *   **Oracle Database Administration:** Grid Infrastructure, RMAN backup and recovery, SQL and instance performance tuning, MTS, high availability TAF and Oracle Net, advanced replication parallel query/DML, DataGuard, Flashback, PL/SQL, compression, partitioning, ASM, Delphix data virtualisation / TDM
 
