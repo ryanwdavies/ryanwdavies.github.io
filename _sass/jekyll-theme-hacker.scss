@@ -67,7 +67,9 @@ header h1 {
 }
 
 header h1:before {
-  content: "./ ";
+ /* 
+  content: "  ";
+*/ 
   font-size: 24px;
 }
 
@@ -139,7 +141,9 @@ dt {
 }
 
 ul li {
-  list-style-image:url('../images/bullet.png');
+  list-style: square outside none;
+/*  list-style-image:url('../images/bullet.png'); 
+*/
 }
 
 blockquote {
