@@ -1,21 +1,39 @@
 ---
 layout: default
 ---
+<div style="text-align: right"><img src="./assets/images/Ryan_Davies.jpeg./assets/images/Ryan_Davies.jpeg" align="right"> your-text-here </div>
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc)
+
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Certifciations:
 
+## Core skils
+
+*   **Languages:** Python, Jython, shell script (bash/ksh), JavaScript, PHP, VBA, SQL, PL/SQL
+
+*   **Oracle Fusion Middleware** OMW with SOA (OSB, OER, OSR), WebCenter Portal, ODI, OBIEE, Discoverer, Identity and Access Management (OID and OAM), OFSA
+
+*   **Oracle Database Administration:** Grid Infrastructure, RMAN backup and recovery, SQL and instance performance tuning, MTS, high availability TAF and Oracle Net, advanced replication parallel query/DML, DataGuard, Flashback, PL/SQL, compression, partitioning, ASM, Delphix data virtualisation / TDM
+
+*   **Oracle Enterprise Performance Management (EPM):** Oracle Hyperion Planning, Essbase, BIPlus, Hyperion Business Rules, EAS, Financial Reporting, Workspace, Shared Services. Installation, configuration, performance tuning, and application cloning.
+Oracle Applications (R9 - R12) 
+
+*   **Oracle EBS:** Installation, upgrades, migrations, tuning, patching, cloning, administration, customisation, and system administration.
+Oracle Enterprise Manager 
+
+*   **Oracle Enterprise Manager:** Installation, template definition, custom reporting, user-defined metrics, HA repository configuration.
+
+
+## Certifciations
 
 *   Oracle 11gR2 Administrator Certified Professional
 *   Oracle 11gR2 Performance Tuning Certified Expert
@@ -28,7 +46,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 *   TOGAF 9.1 (Foundation and Certified)
 
 
-## Header 2
+# Projects and Roles
+
+
 
 > This is a blockquote following a header.
 >
