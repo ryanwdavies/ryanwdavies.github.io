@@ -7,9 +7,9 @@ layout: default
 <!--[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc) -->
 <table>
   <tr>
-    <td style="vertical-align: top;width: 70%;">
+    <td style="vertical-align: top;">
  +44 7958 208105<br>
-      <img src="./assets/images/email.png" style="height:auto;width:24%;"><br>
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto;width:24%;"><br>
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
       <br>
@@ -24,7 +24,6 @@ I have worked with Oracle technologies, as a developer and as an administrator, 
 
 Iss have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and their application within financial services. 
 <br><br>
- ryanwdavies@gmail.com
 <br><br>
 London 
 <br><br>
