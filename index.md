@@ -26,7 +26,7 @@ layout: default
 
 </td>
 <td style="vertical-align: top;">
-  <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:100%;min-width:70px;" border="2">
+  <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:100%;" border="2">
 </td>
 </tr>
 </table>
