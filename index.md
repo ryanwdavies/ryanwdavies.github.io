@@ -2,13 +2,21 @@
 layout: default
 ---
 
-<img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:300px;width:300px;" border="2">
+
 
 <!--[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc) -->
+<table>
+  <tr>
+    <td style="vertical-align: top;">
 +44 7958 208105<br>
 <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
 <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a>
-
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:65%;" border="2">
+</td>
+</tr>
+</table>
 ## Career Objectives
 
 <br/>
@@ -18,7 +26,7 @@ layout: default
 
 ## Core skills
 
-*   **Languages:** Python, Jython, shell script (bash/ksh), JavaScript, PHP, VBA, PL/SQL, SQL, TSQL
+*   **Languages:** Python, Jython, shell script (bash/ksh), JavaScript, Solidity, PHP, VBA, PL/SQL, SQL, TSQL
 
 *   **Oracle Middleware:** OMW with SOA (OSB, OER, OSR), WebCenter Portal, ODI, OBIEE, Identity and Access Management (OID and OAM; installation, configuration, performance tuning, monitoring, cloning
 
