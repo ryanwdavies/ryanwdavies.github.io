@@ -2,34 +2,22 @@
 layout: default
 ---
 
-
-
-<!--[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc) -->
 <table>
   <tr>
     <td style="vertical-align: top;">
-            <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 35px; margin-bottom: 10px; margin-top: 5px;" border="2">
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 35px; margin-bottom: 10px; margin-top: 5px;" border="2">
       +44 7958 208105<br>
+      London, UK<br>
       <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto;width:24%;"><br>
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
       <br>
       <h2>Career Interests</h2>
 <p style="text-align: justify;">
-I have worked with Oracle technologies since 1997, as a developer and as an administrator.
+I trained with Oracle Consulting UK as a graudate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products, broader industry trends, and am enthusistic about computer science.<br><br>
 
-I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and their application within financial services. I am particuar
-<br><br>
-<br><br>
-London 
-<br><br>
-<br><br>
-<br><br>
-
-Ryan has worked with Oracle technologies since 1997 and has enjoyed a career implementing Oracle technology in different industry sectors. Ryan trained with Oracle Consulting UK as a graduate, consulted for Oracle UK Applications Consulting for 4 years, and subsequently independently since. 
-Ryan is reliable, self-starting, and has a can-do attitude. Ryan enjoys working quickly under pressure and likes to invest his energies in projects to see Oracle technologies implemented well. Ryan has enjoyed an excellent relationship with his clients and colleagues. Ryan is enthusiastic about producing high-quality documentation, well-commented code, and change control. Ryan is a technologist and likes to stay abreast of the latest Oracle products and broader industry trends, and enjoys opportunities to apply leadership and solution design abilities.
+Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface existing intrastructure with the new distributed ledger paradigm.
 </p>
-
     </td>
   </tr>
 </table>
@@ -49,7 +37,9 @@ Ryan is reliable, self-starting, and has a can-do attitude. Ryan enjoys working
 
 *   **Oracle Enterprise Manager:** Installation, template definition, custom reporting, user-defined metrics, HA repository configuration
 
-*   **Oracle Financial Services Analytical Applications (OFSAA):**  LRM, FTP, ALM, GLRECON, BASEL; performance tuning, installation, upgrade, cloning<br/><br/>
+*   **Oracle Financial Services Analytical Applications (OFSAA):**  LRM, FTP, ALM, GLRECON, BASEL; performance tuning, installation, upgrade, cloning
+
+*   **Other:** MySQL, git, Delphix, Docker, Remix/Ganache/Truffle<br/><br/>
 
 
 ## Certifications
@@ -73,7 +63,7 @@ PRINCE2 P2R/757481
 # Projects and Roles
 
 ### Studys, blockchain and distributed ledger (Oct 2017 – Nov 2018)
-<p style='text-align: justify;'>A career/study break to study blockchain, distributed systems, and DLT-enabled technologies: IPFS, crypto-economic consensus approaches (Proof of Work/Nakamoto consensus, Proof of Stake, dPOS), Ethereum (Solidity, Remix/Ganache/Truffle, Web3.js), Layer 2 protocols (Lighting, Plasma), HyperLedger.</p>
+<p style='text-align: justify;'>A career/study break to study blockchain, distributed systems, and DLT-enabled technologies: IPFS, crypto-economic consensus approaches (Proof of Work/Nakamoto consensus, Proof of Stake, dPOS), Ethereum (Solidity, Remix/Ganache/Truffle, Web3.js), crpytographic primatives, Layer 2 protocols (Lighting, Plasma), HyperLedger. Took the ConsenSys Academy summer 2018 certified blockchain developer programme.</p>
 
 <p style='text-align: justify;'>
 Conferences: Breaking Bitcoin, Paris (Sept 2017); 9984 Summit (BigChainDB), Berlin (Oct 2017); Hackers Congress HCPP17, Prague (Oct 2017); Ethereum Devcon3, Cancun (Nov 2017); North American Blockchain Conference, Miami (Jan 2018); Consensus, NYC (May 2018); Layer 2 Summit, MIT Boston (May 2018).</p>
