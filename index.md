@@ -25,7 +25,7 @@ layout: default
 *   **Oracle Database Administration:** Grid Infrastructure, RMAN backup and recovery, SQL and instance performance tuning, MTS, high availability TAF and Oracle Net, advanced replication parallel query/DML, DataGuard, Flashback, PL/SQL, compression, partitioning, ASM, Delphix data virtualisation / TDM
 </td>
 <td style="vertical-align: top;">
-     <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:100%;float:right; vertical-align: top;" border="2">
+     <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:100%; min-width: 100px; float:right; vertical-align: top;" border="2">
 
 </td>
 
