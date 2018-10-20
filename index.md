@@ -12,11 +12,12 @@ layout: default
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
       <br>
+
       <h2>Career Interests</h2>
-<p style="text-align: justify;">
+      <p style="text-align: justify;">
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products, broader industry trends, and am enthusiastic about computer science.<br><br>
 
-Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface existing infrastructure  with the new distributed ledger paradigm.
+Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface existing Oracle infrastructure with the new distributed ledger paradigm.
 </p>
     </td>
   </tr>
