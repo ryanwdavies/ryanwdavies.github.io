@@ -12,31 +12,21 @@ layout: default
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br><br>
     </td>
-    <td></td>
   </tr>
   <tr>
-    <td>
-
-     <h2>Career Interests</h2>
+    <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:30%; min-width: 100px; float:right; vertical-align: top; margin-left: 10px; margin-bottom: 10px; margin-top: 5px;" border="2">
+      <h2>Career Interests</h2>
 *   **Languages:** Python, Jython, shell script (bash/ksh), JavaScript, Solidity, PHP, VBA, PL/SQL, SQL, TSQL
 
 *   **Oracle Middleware:** OMW with SOA (OSB, OER, OSR), WebCenter Portal, ODI, OBIEE, Identity and Access Management (OID and OAM; installation, configuration, performance tuning, monitoring, cloning
 
 *   **Oracle Database Administration:** Grid Infrastructure, RMAN backup and recovery, SQL and instance performance tuning, MTS, high availability TAF and Oracle Net, advanced replication parallel query/DML, DataGuard, Flashback, PL/SQL, compression, partitioning, ASM, Delphix data virtualisation / TDM
-</td>
-<td style="vertical-align: top;">
-     <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:100%; min-width: 100px; float:right; vertical-align: top;" border="2">
 
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
-## Career Interests
 
-<br/>
-<br/>
-<br/><br/><br/>
-<br/>
 
 ## Core skills
 
