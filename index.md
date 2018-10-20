@@ -85,7 +85,7 @@ DevOps tooling: BMC BladgeLogic and Release Automation, and Delphix data virtual
 
 
 <br />
-### Alpha International (Sept 2012– Apr 2013) 
+### Alpha International (Sept 2012 – Apr 2013) 
 <p style='text-align: justify;'> 
 Pro-bono project: SQL Server data migration from Integra to BlackBaud Raiser’s Edge and a for custom CRM application.</p>
 
@@ -104,7 +104,7 @@ A short career break to study certification and computer science interests (Berk
 
 <br />
 ### Balfour Beatty PLC (Feb 2010 – Sept 2010) 
-Production and Development Support
+Production and Development Support.
 - Oracle Beehive 2.0
 - Oracle 11gR2 RDBMS, RAC with Grid Infrastructure and ASM, on Linux
 - Oracle Applications 11.5.10.2
@@ -114,7 +114,7 @@ Installed 11gR2 Grid Infrastructure, ASM and RAC database clusters. Applied 11g 
 <br />
 ### Clifford Chance LLP  (Jan 2005 – Feb 2010)  
 Clifford Chance is the world's leading law firm with offices in 20 countries. 
-Production and Development Support
+Production and Development Support.
 - Oracle Applications 11.5.10.2 
 - Oracle 10g RAC with Oracle Collaboration Suite
 - Oracle EPM - Hyperion Planning, Essbase, BIPlus, Hyperion Business Rules
@@ -132,7 +132,7 @@ Designed and implemented RMAN backup and recovery strategy across the Oracle est
 ### Hitachi Data Systems  (Jun 2002 – Dec 2004) 
 
 HDS is a leading provider of storage solutions and supplies over 50 percent of Fortune 100 companies. 
-Production and Development Support
+Production and Development Support.
 - Oracle Applications 11.5.8 
 - Bespoke Oracle applications 
 - Oracle 9i, Sun Solaris 9, HDS storage 
@@ -142,7 +142,7 @@ Supported Oracle Applications 11.5.8 with core Financials, HR, SSWA (HR and OIE)
 
 ### Marconi Communications (Oct 2001 – Jun 2002) 
 Global Oracle EBS implementation for Marconi. 
-Production DBA Team Lead (UK & US teams) 
+Production DBA team lead (UK & US teams).
 - Oracle Applications 11.5.4 
 - Oracle 8i, Compaq Tru64 5.1 
 <p style='text-align: justify;'>
@@ -155,7 +155,7 @@ Supported teams of Oracle and Accenture functional and technical consultants thr
 ### Vodafone (Mar 2001 – Oct 2001) 
 
 The world's leading mobile telecommunications company, with presence in APAC, EMEA and the Americas. 
-Production and Development DBA
+Production and Development DBA.
 - Oracle Applications 11.5.1 
 - Oracle 8i, Sun Solaris 8, EMC storage 
 <p style='text-align: justify;'>
@@ -174,7 +174,7 @@ European Production and Development DBA responsible for Oracle Application DBA s
 ### Financial Times Electronic Publishing, FT.com  (Mar 2000 – Oct 2000) 
 
 The Financial Times, one of the world’s leading business news organisations.
-Oracle Production and Development DBA team leader
+Oracle Production and Development DBA team lead.
 - FutureTense (24x7 rolling news operation) 
 - NetAnalysis and NetGenisis 
 - Oracle 8i, Sun Solaris 2.6 
