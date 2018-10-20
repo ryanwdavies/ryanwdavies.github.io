@@ -7,20 +7,20 @@ layout: default
 <!--[Ryan Davies CV](./assets/docs/Ryan_Davies_CV.doc) -->
 <table>
   <tr>
-    <td style="vertical-align: top;width: 70%;text-align: justify;">
-+44 7958 208105<br>
+    <td style="vertical-align: top;width: 70%;">
+ +44 7958 208105<br>
+      <img src="./assets/images/email.png" style="height:auto;width:24%;"><br>
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
-      <img src="./assets/images/email.png" style="height:auto;width:24%;">
-  <br>
+      <br>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 10px; margin-bottom: 10px; margin-top: 5px;" border="2">
+    <td style="vertical-align: top; text-align: justify;">
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 30px; margin-bottom: 10px; margin-top: 5px;" border="2">
       <h2>Career Interests</h2>
-sss
-I have worked with Oracle technologies since 1997, as a developer and as an administrator, in all phases of the project life-cycle.
+
+I have worked with Oracle technologies, as a developer and as an administrator, since 1997.
 
 Iss have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and their application within financial services. 
 <br><br>
