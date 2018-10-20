@@ -15,7 +15,7 @@ layout: default
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:30%; min-width: 100px; float:right; vertical-align: top; margin-left: 10px; margin-bottom: 10px; margin-top: 5px;" border="2">
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 300px; float:right; vertical-align: top; margin-left: 10px; margin-bottom: 10px; margin-top: 5px;" border="2">
       <h2>Career Interests</h2>
 *   **Languages:** Python, Jython, shell script (bash/ksh), JavaScript, Solidity, PHP, VBA, PL/SQL, SQL, TSQL
 
