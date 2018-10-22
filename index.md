@@ -63,7 +63,7 @@ PRINCE2 P2R/757481
 <br />
 # Projects and Roles
 
-### Studys, blockchain and distributed ledger (Oct 2017 – Nov 2018)
+### Study, blockchain and distributed ledger (Oct 2017 – Nov 2018)
 <p style='text-align: justify;'>A career/study break to study blockchain, distributed systems, and DLT-enabled technologies: IPFS, crypto-economic consensus approaches (Proof of Work/Nakamoto consensus, Proof of Stake, dPOS), Ethereum (Solidity, Remix/Ganache/Truffle, Web3.js), cryptographic primitives, Layer 2 protocols (Lighting, Plasma), HyperLedger. Took the ConsenSys Academy summer 2018 certified blockchain developer programme.</p>
 
 <p style='text-align: justify;'>
