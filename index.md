@@ -4,17 +4,21 @@ layout: default
 
 <table>
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding: 0 0">
+            <p style="text-align: justify;">
+
+      London, UK<br>
       <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 35px; margin-bottom: 10px; margin-top: 5px;" border="2">
       +44 7958 208105<br>
-      London, UK<br>
-      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto;width:23%;"><br>
+
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto; width:23%;"><br>
+
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
       <br>
 
       <h2>Career Interests</h2>
-      <p style="text-align: justify;">
+
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products, broader industry trends, and am enthusiastic about computer science.<br><br>
 
 Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface existing Oracle infrastructure with the new distributed ledger paradigm.
@@ -93,7 +97,7 @@ Pro-bono project: SQL Server data migration from Integra to BlackBaud Raiser’s
 - Oracle EBS 12.0.6 to 12.1.3 Upgrade
 - FMW 11g: Oracle Middleware 11g with SOA, OSB, OER, UCM, BAM, OBIEE, Disco and OSR
 - Oracle 10g to 11.2.0.2 RAC Upgrade, OEL 5.4 Linux
-<p style='text-align: justify;'>  
+<p style='text-align: justify;'>  s
 Project DBA technical lead (team of five): planned the upgrade of EBS 12.0.6 to 12.1.3 (with OSSO 10g migration to 11g OAM), 10g RDBMS upgrade to 11.2.0.2, with 11.2.0.2 Grid Infrastructure; and planned and implemented SOA, UCM, OBIEE (upgraded 10-11g), OER; high-availability clustering, file system, housekeeping, network, bespoke management tools, and performance tuning.</p>
 
 <br />
