@@ -11,7 +11,7 @@ layout: default
       <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 35px; margin-bottom: 10px; margin-top: 5px;" border="2">
       +44 7958 208105<br>
 
-      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto; width:23%;"><br>
+      <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto; width:22.5%;"><br>
 
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
