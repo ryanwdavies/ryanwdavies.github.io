@@ -40,7 +40,7 @@ Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and 
 
 *   **Oracle Financial Services Analytical Applications (OFSAA):**  LRM, FTP, ALM, GLRECON, BASEL; performance tuning, installation, upgrade, cloning
 
-*   **Other:** MySQL, git, Delphix, Docker, Remix/Ganache/Truffle<br/><br/>
+*   **Other:** MySQL, git, Delphix, Docker, Remix/Ganache/Truffle<br><br>
 
 
 ## Certifications
@@ -55,12 +55,11 @@ Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and 
 *   PRINCE2 (Foundation and Practitioner) 
 *   TOGAF 9.1 (Foundation and Certified)
 
-Oracle University ID 0C0892125   
-Prometric ID SR7055406<br/>
-PRINCE2 P2R/757481
+Oracle University ID 0C0892125<br>
+Prometric ID SR7055406<br>
+PRINCE2 P2R/757481<br><br>
 
 
-<br />
 # Projects and Roles
 
 ### Study, blockchain and distributed ledger (Oct 2017 – Nov 2018)
@@ -121,7 +120,7 @@ Production and Development Support.
 - Oracle 10gR2, HP-UX 11, HDS and NetApp Storage
 - Keystone Professional, 10gAS Forms and Reports 
 <p style='text-align: justify;'>  
-Oracle Applications upgrade 11.5.8 to 11.5.10.2, with HP-UX to Sun Solaris platform migration; patching, environment cloning; Oracle Applications was integrated with Portal and Keystone Professional using OID and SSO. Oracle Applications Interconnect (OAI) hub used for message translation of data feeds from into Oracle Applications. Database upgrade 9i to 10gR2. ASM administration. Custom shell and PL/SQL scripts for key system event monitoring, integrated with HP OpenView alerting. <br /><br/>
+Oracle Applications upgrade 11.5.8 to 11.5.10.2, with HP-UX to Sun Solaris platform migration; patching, environment cloning; Oracle Applications was integrated with Portal and Keystone Professional using OID and SSO. Oracle Applications Interconnect (OAI) hub used for message translation of data feeds from into Oracle Applications. Database upgrade 9i to 10gR2. ASM administration. Custom shell and PL/SQL scripts for key system event monitoring, integrated with HP OpenView alerting. <br /><br>
 
 Installed Oracle Hyperion 9.3.1 (BIPlus, EAS, Hyperion Planning, HBR), using Apache Tomcat. Implemented Hyperion Planning JVMs scale-out across multiple tiers. Upgraded Hyperion Planning and Essbase. Migrated installation from Tomcat, to Oracle 10gAS. Supported the Hyperion business team for application support and cloning. <br><br>
 Implemented Grid Control OMS 10.2.0.5 and Agents: Grid target templating, metric and policy configuration, user-defined metrics, custom reporting. HA Grid configuration. Instance and SQL performance tuning, ADDM and AWR analysis, Grid advisors, platform problem detection.<br><br>
@@ -192,7 +191,7 @@ Employed for just under 4 years by Oracle UK Applications Consulting. Accepted o
 
 - Dairy Farm International, Hong Kong: Applications upgrade, 10.5 to 10.7 character, and review of customisations for 10.7/Y2k compatibility. Reviewed application customisations (interfaces and reports) to ensure customisations were Y2K compliant, and compatible with the 10.7 Applications database structure. Built and designed bespoke interfaces for journal and budget loading using GLDI and Excel macro development. GLDI and Discoverer2000 implementation. Implemented Discoverer and the End User Layer; installed user views and trained users on the data analysis tool.</p>
 
-<br/>
+<br>
 ## Personal Interests
 <p style='text-align: justify;'>
 Rowing, cycling (long distance and racing), Streetbank.com, Blockchain/DLT technologies, Hadoop/Map Reduce, Machine Learning, personal community website project (LAMP stack, JQuery, composer, 50k members).</p><br>
