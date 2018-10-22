@@ -93,7 +93,7 @@ Pro-bono project: SQL Server data migration from Integra to BlackBaud Raiser’s
 - Oracle EBS 12.0.6 to 12.1.3 Upgrade
 - FMW 11g: Oracle Middleware 11g with SOA, OSB, OER, UCM, BAM, OBIEE, Disco and OSR
 - Oracle 10g to 11.2.0.2 RAC Upgrade, OEL 5.4 Linux
-<p style='text-align: justify;'> 
+<p style='text-align: justify;'>  
 Project DBA technical lead (team of five): planned the upgrade of EBS 12.0.6 to 12.1.3 (with OSSO 10g migration to 11g OAM), 10g RDBMS upgrade to 11.2.0.2, with 11.2.0.2 Grid Infrastructure; and planned and implemented SOA, UCM, OBIEE (upgraded 10-11g), OER; high-availability clustering, file system, housekeeping, network, bespoke management tools, and performance tuning.</p>
 
 <br />
