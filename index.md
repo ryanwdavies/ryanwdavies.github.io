@@ -4,8 +4,8 @@ layout: default
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding: 0 0">
-            <p style="text-align: justify;">
+    <td style="vertical-align: top; padding: 0 0; text-align: justify;">
+            <p>
 
       London, UK<br>
       <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 35px; margin-bottom: 10px; margin-top: 5px;" border="2">
