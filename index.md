@@ -4,7 +4,7 @@ layout: default
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding: 0 0; text-align: justify;">
+    <td style="vertical-align: top; padding: 0 0;">
             <p>
 
       London, UK<br>
