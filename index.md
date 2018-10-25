@@ -5,7 +5,7 @@ layout: default
 <table>
   <tr>
     <td style="vertical-align: top; padding: 0 0;">
-            <p>
+      <p>
 
       London, UK<br>
       <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/Ryan_Davies.jpeg" align="right" style="height:auto;width:50%; min-width: 100px; max-width: 270px; float:right; vertical-align: top; margin-left: 35px; margin-bottom: 10px; margin-top: 5px;" border="2">
@@ -22,7 +22,7 @@ layout: default
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products, broader industry trends, and am enthusiastic about computer science.<br><br>
 
 Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface existing Oracle infrastructure with the new distributed ledger paradigm.
-</p>
+      </p>
     </td>
   </tr>
 </table>
