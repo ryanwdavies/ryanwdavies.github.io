@@ -21,7 +21,7 @@ layout: default
 
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products, broader industry trends, and am enthusiastic about computer science.<br><br>
 
-Since 2013 I have developed a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface existing Oracle infrastructure with the new distributed ledger paradigm.
+Since 2013 I have developed a compelling interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and the distributed technologies which new consensus protocols enable. I am keen to engage in London-based projects which interface existing Oracle infrastructure with the new distributed ledger paradigm.
 </p>
     </td>
   </tr>
@@ -66,7 +66,7 @@ PRINCE2 P2R/757481<br><br>
 
 # Projects and Roles
 
-### Study, blockchain and distributed ledger (Oct 2017 – Nov 2018)
+### Study period, blockchain and distributed ledger (Oct 2017 – Nov 2018)
 <p style='text-align: justify;'>A career/study break to study blockchain, distributed systems, and DLT-enabled technologies: IPFS, crypto-economic consensus approaches (Proof of Work/Nakamoto consensus, Proof of Stake, dPOS), Ethereum (Solidity, Remix/Ganache/Truffle, Web3.js), cryptographic primitives, Layer 2 protocols (Lighting, Plasma), HyperLedger. Took the ConsenSys Academy summer 2018 certified blockchain developer programme.</p>
 
 <p style='text-align: justify;'>
@@ -101,7 +101,7 @@ Pro-bono project: SQL Server data migration from Integra to BlackBaud Raiser’s
 Project DBA technical lead (team of five): planned the upgrade of EBS 12.0.6 to 12.1.3 (with OSSO 10g migration to 11g OAM), 10g RDBMS upgrade to 11.2.0.2, with 11.2.0.2 Grid Infrastructure; and planned and implemented SOA, UCM, OBIEE (upgraded 10-11g), OER; high-availability clustering, file system, housekeeping, network, bespoke management tools, and performance tuning.</p>
 
 <br />
-### Study (Sept - Oct 2010)
+### Study period (Sept - Oct 2010)
 <p style='text-align: justify;'> 
 A short career break to study certification and computer science interests (Berkely CS61c, computer architecture, and industry transition to multi-core: the limitations of frequency scaling in uni-core systems).</p>
 
