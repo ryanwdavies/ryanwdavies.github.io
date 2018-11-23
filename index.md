@@ -21,7 +21,7 @@ layout: default
 
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products and broader industry trends, and am enthusiastic about computer science.<br><br>
 
-I London-based and am particularly interested in roles in DevOps, bespoke automation, Oracle database/middleware administration and development, and performance tuning. I also have a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and the distributed consensus protocols, and the technologies they are enabling.
+I London-based and am particularly interested in roles in DevOps, bespoke automation, data engineering and AI. I also have a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and the distributed consensus protocols, and the technologies they are enabling.
 </p>
     </td>
   </tr>
