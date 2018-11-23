@@ -81,7 +81,7 @@ Project DBA technical lead (team of five): planned the upgrade of EBS 12.0.6 to 
 <br>
 ### Study period (Sept 2010 - Oct 2010)
 <p style='text-align: justify;'> 
-A short career break to study certification and computer science interests: Berkely CS61c, computer architecture (hardware/software interface), and the industry transition from single to multi-core; the limitations of frequency scaling in uni-core systems.</p>
+A short career break to take certifications and follow computer science interests: Berkely CS61c, computer architecture (hardware/software interface), and the industry transition from single to multi-core; the limitations of frequency scaling in uni-core systems.</p>
 
 <br>
 ### Balfour Beatty PLC (Feb 2010 – Sept 2010) 
