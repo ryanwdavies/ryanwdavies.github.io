@@ -21,7 +21,7 @@ layout: default
 
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products and broader industry trends, and am enthusiastic about computer science.<br><br>
 
-I London-based and am particularly interested in roles in DevOps, bespoke automation, data engineering and AI. I also have a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and the distributed consensus protocols, and the technologies they are enabling.
+I London-based and am particularly interested in roles in DevOps, bespoke automation, data engineering and AI. I also have a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and the distributed consensus protocols, and the technologies paradigms they enable.
 </p>
     </td>
   </tr>
@@ -46,7 +46,7 @@ I London-based and am particularly interested in roles in DevOps, bespoke automa
 <p style='text-align: justify;'>A career/study break to study blockchain, distributed systems, and DLT-enabled technologies: IPFS, crypto-economic consensus approaches (Proof of Work/Nakamoto consensus, Proof of Stake, dPOS), Ethereum (Solidity, Remix/Ganache/Truffle, Web3.js), cryptographic primitives, Layer 2 protocols (Lighting, Plasma), HyperLedger (Fabric), zk-snarks / Zokrates.</p>
 
 <p style='text-align: justify;'>
-Conferences/programmes: Breaking Bitcoin, Paris (Sept 2017); 9984 Summit (BigChainDB), Berlin (Oct 2017); Hackers Congress HCPP17, Prague (Oct 2017); Ethereum Devcon3, Cancun (Nov 2017); North American Blockchain Conference, Miami (Jan 2018); Consensus, NYC (May 2018); Layer 2 Summit, MIT Boston (May 2018), ConsenSys Academy summer 2018 certified blockchain developer programme.</p>
+Conferences/programmes: Breaking Bitcoin, Paris (Sept 2017); 9984 Summit (BigChain DB), Berlin (Oct 2017); Hackers Congress HCPP17, Prague (Oct 2017); Ethereum Devcon3, Cancun (Nov 2017); North American Blockchain Conference, Miami (Jan 2018); Consensus, NYC (May 2018); Layer 2 Summit, MIT Boston (May 2018), ConsenSys Academy summer 2018 certified blockchain developer programme.</p>
 
 <br>
 ### Royal Bank of Scotland (Apr 2013 – Sept 2017) 
