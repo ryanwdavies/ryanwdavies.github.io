@@ -118,7 +118,7 @@ Rowing, cycling (long distance and racing), Streetbank.com, Blockchain/DLT techn
 ## Certifications
 
 *   PRINCE2 (Foundation and Practitioner)
-*   TOGAF 9.1 (Foundation and Certified)
+*   TOGAF 9.1 (Foundation and Certified)<br />
 *   Oracle 11gR2 Administrator Certified Professional
 *   Oracle 11gR2 Performance Tuning Certified Expert
 *   Oracle 10gR2 RAC Certified Expert 
