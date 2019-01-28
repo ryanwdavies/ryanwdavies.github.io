@@ -117,13 +117,13 @@ Rowing, cycling (long distance and racing), Streetbank.com, Blockchain/DLT techn
 
 ## Certifications
 
+*   PRINCE2 (Foundation and Practitioner)
+*   TOGAF 9.1 (Foundation and Certified)
 *   Oracle 11gR2 Administrator Certified Professional
 *   Oracle 11gR2 Performance Tuning Certified Expert
 *   Oracle 10gR2 RAC Certified Expert 
 *   Oracle R12 Applications DBA Certified Professional
 *   MS SQL Server 2008 Database Developer, MCTS<br><br>
-*   PRINCE2 (Foundation and Practitioner)
-*   TOGAF 9.1 (Foundation and Certified)
 
 Oracle University ID 0C0892125<br>
 Prometric ID SR7055406<br>
