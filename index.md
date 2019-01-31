@@ -13,6 +13,7 @@ layout: default
 
       <img src="https://raw.githubusercontent.com/ryanwdavies/ryanwdavies.github.io/master/assets/images/email.png" style="height:auto; width:22.5%;"><br>
 
+      <a href="https://github.com/ryanwdavies" target="_blank">https://github.com/ryanwdavies</a><br>
       <a href="http://uk.linkedin.com/in/ryanwdavies" target="_blank">http://uk.linkedin.com/in/ryanwdavies</a><br>
       <br>
 
@@ -20,11 +21,7 @@ layout: default
 
 I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products and broader industry trends, and am enthusiastic about computer science.<br><br>
 
-<<<<<<< HEAD
-Since 2013 I have developed a compelling interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, and the distributed technologies which new consensus protocols enable. I am keen to engage in London-based projects which might interface Oracle and existing infrastructures with the new distributed ledger paradigm.
-=======
 I London-based and am particularly interested in roles in DevOps, bespoke automation, data engineering and AI. I also have a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, distributed consensus protocols and the paradigms they enable.
->>>>>>> c1ecfff5751af0aff3d92b348f3e32d4072b292a
 </p>
     </td>
   </tr>
