@@ -37,7 +37,21 @@ I London-based and am particularly interested in roles in DevOps, bespoke automa
 
 *   **Oracle Database:** Grid Infrastructure, RMAN backup and recovery, SQL and instance performance tuning, MTS, high availability TAF and Oracle Net, advanced replication parallel query/DML, DataGuard, Flashback, PL/SQL, compression, partitioning, ASM, Delphix data virtualisation/TDM<br><br>
 
+## Certifications
 
+*   TOGAF 9.1 (Foundation and Certified, level 2)
+*   PRINCE2 (Foundation and Practitioner)
+*   Certified Ethereum blockchain developer<br /><br /> 
+*   Oracle 11gR2 Administrator Certified Professional
+*   Oracle 11gR2 Performance Tuning Certified Expert
+*   Oracle 10gR2 RAC Certified Expert 
+*   Oracle R12 Applications DBA Certified Professional
+*   MS SQL Server 2008 Database Developer, MCTS<br><br>
+
+ConsenSys Academy<br />
+Oracle University ID 0C0892125<br>
+Prometric ID SR7055406<br>
+PRINCE2 P2R/757481<br><br>
 
 
 # Projects and Roles
@@ -114,20 +128,6 @@ Designed and implemented RMAN backup and recovery strategy across the Oracle est
 ## Personal Interests
 <p style='text-align: justify;'>
 Rowing, cycling (long distance and racing), Streetbank.com, Blockchain/DLT technologies, Machine Learning (regression, gradient descent), personal community website project (LAMP stack, JQuery, 50k members), piano, guitar.</p><br>
-
-## Certifications
-
-*   TOGAF 9.1 (Foundation and Certified, level 2)
-*   PRINCE2 (Foundation and Practitioner)<br /><br />
-*   Oracle 11gR2 Administrator Certified Professional
-*   Oracle 11gR2 Performance Tuning Certified Expert
-*   Oracle 10gR2 RAC Certified Expert 
-*   Oracle R12 Applications DBA Certified Professional
-*   MS SQL Server 2008 Database Developer, MCTS<br><br>
-
-Oracle University ID 0C0892125<br>
-Prometric ID SR7055406<br>
-PRINCE2 P2R/757481<br><br>
 
 
 ## Education
