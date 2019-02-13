@@ -39,9 +39,9 @@ I London-based and am particularly interested in roles in DevOps, bespoke automa
 
 ## Certifications
 
+*   Certified Ethereum blockchain developer
 *   TOGAF 9.1 (Foundation and Certified, level 2)
-*   PRINCE2 (Foundation and Practitioner)
-*   Certified Ethereum blockchain developer<br /><br /> 
+*   PRINCE2 (Foundation and Practitioner)<br /><br /> 
 *   Oracle 11gR2 Administrator Certified Professional
 *   Oracle 11gR2 Performance Tuning Certified Expert
 *   Oracle 10gR2 RAC Certified Expert 
