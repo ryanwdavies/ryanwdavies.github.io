@@ -19,7 +19,7 @@ layout: default
 
       <h2>Career Interests</h2>
 
-I have worked with Linux-based enterprise software since 1997, as a developer, and in implementation and administration.<br /><br />
+I have worked with Linux-based enterprise software since 1997, as a developer and in administration, through all phases of the project life cycle.<br /><br />
 
 In 2013 I developed a keen interest in blockchain, and in Sept 2017 left my position to study it full-time; Ethereum, Bitcoin, consensus approaches, smart contracts, cryptographic primitives, permissioned/permission-less networks.<br /><br />
 
