@@ -19,9 +19,11 @@ layout: default
 
       <h2>Career Interests</h2>
 
-I trained with Oracle Consulting UK as a graduate (1997) and since then have enjoyed working with Oracle technologies, in development and product administration. I enjoy staying abreast of the Oracle products and broader industry trends, and am enthusiastic about computer science.<br><br>
+I have worked with Linux-based enterprise software since 1997, as a developer in administration/implementation. 
 
-I London-based and am particularly interested in roles in DevOps, bespoke automation, data engineering and AI. I also have a keen interest in DLT/blockchain, permissioned and permissonless ledgers, smart contracts, distributed consensus protocols and the paradigms they enable.
+In 2013 I went down the blockchain "rabbit hole", and in Sept 2017 left my position to study blockchain full-time; Ethereum, Bitcoin, consensus approaches, smart contract languages, cryptographic primitives, permissioned/permissionless. 
+
+I am in blockchain engineering, data engineering, DevOps/bespoke automation. 
 </p>
     </td>
   </tr>
@@ -29,9 +31,9 @@ I London-based and am particularly interested in roles in DevOps, bespoke automa
 
 ## Core skills
 
-*   **Languages:** Python, Jython, shell script (bash/ksh),  PL/SQL, SQL, TSQL, JavaScript, Solidity, PHP, VBA
+*   **Languages:** Python, JavaScript, Solidity, shell script, PL/SQL, SQL, TSQL, Jython, PHP, VBA
 
-*   **Tools:** Linux, MySQL, git, JIRA, AWS, Delphix, Docker, Remix/Ganache/Truffle, Excel, TOAD, Apache, Octave
+*   **Tools:** Linux, MySQL, git, JIRA, AWS, Delphix, Docker, Remix/Ganache/Truffle, Excel, Apache, Octave
 
 *   **Oracle Middleware:** OMW with SOA (OSB, OER, OSR), WebCenter Portal, ODI, OBIEE, Identity and Access Management
 
@@ -40,6 +42,7 @@ I London-based and am particularly interested in roles in DevOps, bespoke automa
 ## Certifications
 
 *   Certified Ethereum blockchain developer
+*   Certified Linux System Administrator
 *   TOGAF 9.1 (Foundation and Certified, level 2)
 *   PRINCE2 (Foundation and Practitioner)<br /><br /> 
 *   Oracle 11gR2 Administrator Certified Professional
