@@ -53,7 +53,7 @@ I am interested to engage in projects in areas of blockchain engineering, data e
 
 ConsenSys Academy<br />
 Prometric ID SR7055406<br>
-PRINCE2 P2R/757481<bra>
+PRINCE2 P2R/757481<br>
 Oracle University ID 0C0892125<br><br> 
 
 
