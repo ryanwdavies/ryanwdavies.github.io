@@ -52,6 +52,7 @@ I am interested to engage in projects in areas of blockchain engineering, data e
 *   MS SQL Server 2008 Database Developer, MCTS<br><br>
 
 ConsenSys Academy<br />
+Linux Foundation ID 0651431931<br>
 Prometric ID SR7055406<br>
 PRINCE2 P2R/757481<br>
 Oracle University ID 0C0892125<br><br> 
