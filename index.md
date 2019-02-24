@@ -42,7 +42,7 @@ I am interested to engage in projects in areas of blockchain engineering, data e
 ## Certifications
 
 *   Certified Ethereum blockchain developer
-*   Certified Linux System Administrator
+*   Linux Foundation Certified System Administrator (LFCS)
 *   TOGAF 9.1 (Foundation and Certified, level 2)
 *   PRINCE2 (Foundation and Practitioner)<br /><br /> 
 *   Oracle 11gR2 Administrator Certified Professional
@@ -52,7 +52,7 @@ I am interested to engage in projects in areas of blockchain engineering, data e
 *   MS SQL Server 2008 Database Developer, MCTS<br><br>
 
 ConsenSys Academy<br />
-Linux Foundation ID 0651431931<br>
+Linux Foundation ID LFCS-1900-002273-0100<br>
 Prometric ID SR7055406<br>
 PRINCE2 P2R/757481<br>
 Oracle University ID 0C0892125<br><br> 
